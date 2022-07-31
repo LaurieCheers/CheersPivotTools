@@ -9,4 +9,4 @@ Bonus feature: While either of these tools are selected, if you edit an object's
 
 I hope you find it useful.
 
-Bug reports, fan mail and death threats -> lauriethrow@gmail.com
+Bug reports, fan mail and death threats -> https://github.com/LaurieCheers/CheersPivotTools
