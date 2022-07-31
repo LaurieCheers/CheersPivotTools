@@ -1,4 +1,4 @@
-Cheers Pivot Tools version 0.1
+##Cheers Pivot Tools version 0.1
 by Laurie Cheers, 7/31/2022
 
 Install this package anywhere in your Unity assets folder.
@@ -12,4 +12,4 @@ Bonus feature: While either of these tools are selected, if you edit an object's
 
 I hope you find it useful.
 
-Bug reports, fan mail and death threats -> https://github.com/LaurieCheers/CheersPivotTools
+Bug reports, fan mail and death threats -> https://github.com/LaurieCheers/CheersPivotTools/issues
