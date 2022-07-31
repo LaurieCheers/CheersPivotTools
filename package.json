@@ -1,0 +1,9 @@
+{
+  "name": "com.cheersgames.cheers-pivot-tools",
+  "version": "0.1",
+  "displayName": "Cheers Pivot Tools",
+  "description": "EditorTools for moving GameObjects without their children",
+  "unity": "2020.3",
+  "unityRelease": "24f1",
+  "dependencies": {}
+}
