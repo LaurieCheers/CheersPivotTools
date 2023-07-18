@@ -1,5 +1,5 @@
 {
-  "name": "com.cheersgames.cheers-pivot-tools",
+  "name": "com.cheers.pivottools",
   "version": "0.1.0",
   "displayName": "Cheers Pivot Tools",
   "description": "EditorTools for moving GameObjects without their children",
